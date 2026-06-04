@@ -1,0 +1,129 @@
+{
+  "scripts": [
+    {
+      "idea_id": 1,
+      "title": "Whispering Waves Lullaby",
+      "hook": "Hush now, little one, listen to the ocean's gentle song",
+      "lyrics": "The waves whisper secrets, soft and low. The moon shines bright, don't you know. It's time for sleep, it's time to rest. Let the waves rock you, be your nest.",
+      "scenes": [
+        {
+          "text": "The waves whisper secrets, soft and low.",
+          "visual": "Gentle ocean waves animation",
+          "duration": 3
+        },
+        {
+          "text": "The moon shines bright, don't you know.",
+          "visual": "Moon shining animation",
+          "duration": 2
+        },
+        {
+          "text": "It's time for sleep, it's time to rest.",
+          "visual": "Cradle or baby bed animation",
+          "duration": 2
+        },
+        {
+          "text": "Let the waves rock you, be your nest.",
+          "visual": "Gentle ocean waves animation",
+          "duration": 3
+        }
+      ],
+      "cta": "Close your eyes and dream of the ocean's peaceful shore."
+    },
+    {
+      "idea_id": 2,
+      "title": "Raindrop Lullaby",
+      "hook": "Gently falling raindrops, lull you to a peaceful slumber",
+      "lyrics": "Raindrops gently falling, soft and slow. The world outside is quiet now. It's time for sleep, don't you know.",
+      "scenes": [
+        {
+          "text": "Raindrops gently falling, soft and slow.",
+          "visual": "Raindrop animation",
+          "duration": 3
+        },
+        {
+          "text": "The world outside is quiet now.",
+          "visual": "Calm rainy day animation",
+          "duration": 2
+        },
+        {
+          "text": "It's time for sleep, don't you know.",
+          "visual": "Baby bed or crib animation",
+          "duration": 2
+        }
+      ],
+      "cta": "Let the raindrops sing you a lullaby to dreamland."
+    },
+    {
+      "idea_id": 3,
+      "title": "Soft Wind Lullaby",
+      "hook": "Feel the soft wind blowing, it's time to close your eyes and dream",
+      "lyrics": "The soft wind whispers secrets, don't you hear? It carries dreams to those who sleep. Close your eyes, snuggle in tight.",
+      "scenes": [
+        {
+          "text": "The soft wind whispers secrets, don't you hear?",
+          "visual": "Soft breeze animation",
+          "duration": 3
+        },
+        {
+          "text": "It carries dreams to those who sleep.",
+          "visual": "Dream clouds or fluffy sheep animation",
+          "duration": 2
+        },
+        {
+          "text": "Close your eyes, snuggle in tight.",
+          "visual": "Baby hugging self or stuffed animal animation",
+          "duration": 3
+        }
+      ],
+      "cta": "Let the soft wind guide you to a peaceful sleep."
+    },
+    {
+      "idea_id": 4,
+      "title": "Nighttime Nature Sounds",
+      "hook": "Listen to the forest as it sings you a lullaby",
+      "lyrics": "The forest sings its song, so calm and deep. The stars shine bright, don't you sleep? Let the night sing you to dreamland.",
+      "scenes": [
+        {
+          "text": "The forest sings its song, so calm and deep.",
+          "visual": "Nighttime forest animation",
+          "duration": 3
+        },
+        {
+          "text": "The stars shine bright, don't you sleep?",
+          "visual": "Twinkling star animation",
+          "duration": 2
+        },
+        {
+          "text": "Let the night sing you to dreamland.",
+          "visual": "Cradle or baby bed animation",
+          "duration": 3
+        }
+      ],
+      "cta": "Drift off to sleep with the forest's gentle song."
+    },
+    {
+      "idea_id": 5,
+      "title": "Starry Night Lullaby",
+      "hook": "Twinkle, twinkle, little star, guide you to your peaceful bed",
+      "lyrics": "The stars shine bright and clear, so calm and near. It's time for sleep, don't you fear? Let the stars guide you to dreamland.",
+      "scenes": [
+        {
+          "text": "The stars shine bright and clear, so calm and near.",
+          "visual": "Twinkling star animation",
+          "duration": 3
+        },
+        {
+          "text": "It's time for sleep, don't you fear?",
+          "visual": "Baby bed or crib animation",
+          "duration": 2
+        },
+        {
+          "text": "Let the stars guide you to dreamland.",
+          "visual": "Cradle or baby bed animation",
+          "duration": 3
+        }
+      ],
+      "cta": "Sleep tight, little one, under the starry night."
+    }
+  ]
+}

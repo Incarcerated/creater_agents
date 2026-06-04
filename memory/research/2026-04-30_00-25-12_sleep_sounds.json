@@ -1,0 +1,41 @@
+{
+  "topic": "sleep sounds",
+  "niche": "children lullaby songs",
+  "ideas": [
+    {
+      "id": 1,
+      "title": "Whispers of the Night",
+      "hook": "Shh... listen, can you hear the whispers of the night?",
+      "theme": "Nature sounds to help babies sleep",
+      "format": "Lullaby"
+    },
+    {
+      "id": 2,
+      "title": "Rock-a-Bye Ocean",
+      "hook": "Come sail away with me to the rock-a-bye ocean!",
+      "theme": "Soothing ocean waves",
+      "format": "Lullaby"
+    },
+    {
+      "id": 3,
+      "title": "Stars in the Sky",
+      "hook": "Twinkle twinkle little star, watch them as they're carried far.",
+      "theme": "A lullaby of stars for bedtime",
+      "format": "Lullaby"
+    },
+    {
+      "id": 4,
+      "title": "Sleepy Forest Friends",
+      "hook": "Join the sleepy forest animals as they close their eyes and drift away.",
+      "theme": "A bedtime story about forest animals sleeping",
+      "format": "Bedtime Story"
+    },
+    {
+      "id": 5,
+      "title": "Lullaby of the Night Sky",
+      "hook": "Come along and dream with me under a blanket of stars.",
+      "theme": "A calming lullaby about the night sky",
+      "format": "Lullaby"
+    }
+  ]
+}

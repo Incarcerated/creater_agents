@@ -1,0 +1,41 @@
+{
+  "topic": "sleep sounds",
+  "niche": "children lullaby songs",
+  "ideas": [
+    {
+      "id": 1,
+      "title": "Whispering Waves Lullaby",
+      "hook": "Shhh, listen to the gentle whispers of the sea.",
+      "theme": "Calming ocean sounds help soothe babies to sleep.",
+      "format": "lullaby"
+    },
+    {
+      "id": 2,
+      "title": "Soft Rainfall Lullaby",
+      "hook": "Raindrops falling gently on our roof, it's time for rest.",
+      "theme": "Soothing rain sounds help create a peaceful sleep environment.",
+      "format": "lullaby"
+    },
+    {
+      "id": 3,
+      "title": "Nighttime Forest Friends",
+      "hook": "Join us on an adventure with the nighttime forest friends.",
+      "theme": "Animals making soothing sounds to help babies sleep.",
+      "format": "soothing animation"
+    },
+    {
+      "id": 4,
+      "title": "Starry Night Lullaby",
+      "hook": "Look up at the stars twinkling in the night sky.",
+      "theme": "A calming lullaby that incorporates the beauty of the night sky.",
+      "format": "lullaby"
+    },
+    {
+      "id": 5,
+      "title": "Lullaby of the Wind",
+      "hook": "The wind is singing a gentle song just for you.",
+      "theme": "Soothing wind sounds to help babies drift off to sleep.",
+      "format": "lullaby"
+    }
+  ]
+}

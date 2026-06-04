@@ -1,0 +1,953 @@
+{
+  "scripts": [
+    {
+      "idea_id": 1,
+      "title": "Whispers of Dreamland",
+      "hook": "Shhh... Listen to the soft whispers of dreamland now.",
+      "lyrics": "{\n\"Whispers of Dreamland\": [\n\"Shhh... Listen to the soft whispers of dreamland now\",\n\"The moon's gentle glow is shining down\",\n\"Dreamy clouds are floating by so slow\",\n\"And everything feels peaceful and bright\",\n\"In this special place, we'll rest tonight\",\n\"All worries fade like morning dew\",\n\"Sleepy stars are twinkling just for you\",\n\"And a soft breeze whispers secrets too\",\n\"The world outside will wait awhile\",\n\"But in dreamland, it's always smile\",\n\"So close your eyes and take a deep breath in\",\n\"Let the calmness of this place begin\",\n\"In the quiet night, we'll find our nest\",\n\"And in the morning light, we'll be refreshed\",\n\"Dreams are made of sparkles and delight\",\n\"And in dreamland, everything is just right\",\n\"The soft whispers guide us through the night\",\n\"To a peaceful sleep, where all is bright\",\n\"Shhh... Listen to the soft whispers of dreamland now\"\n]\n}",
+      "scenes": [
+        [
+          {
+            "text": "Whispers of Dreamland",
+            "visual": "calm animation of moon, stars, clouds, and ocean with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "",
+            "visual": "",
+            "duration": 2
+          },
+          {
+            "text": "Whispers of Dreamland",
+            "visual": "repetition of the calm animation",
+            "duration": 2
+          },
+          {
+            "text": "",
+            "visual": "",
+            "duration": 1
+          }
+        ],
+        {
+          "text": "\"Shhh... Listen to the soft whispers of dreamland now\",\n\"The moon's gentle glow is shining down\",",
+          "visual": "calm animation",
+          "duration": 4
+        },
+        {
+          "text": "\"Dreamy clouds are floating by so slow\",\n\"And everything feels peaceful and bright\",",
+          "visual": "calm animation",
+          "duration": 4
+        },
+        [
+          {
+            "text": "In this special place, we'll rest tonight",
+            "visual": "calm animation of moon, stars, clouds, and ocean with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "All worries fade like morning dew",
+            "visual": "continuation of the calm animation from previous scene",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "Sleepy stars are twinkling just for you",
+            "visual": "Calm animation of a moon, stars, clouds, and ocean with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "And a soft breeze whispers secrets too",
+            "visual": "Continuation of the calm animation from previous scene",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "The world outside will wait awhile",
+            "visual": "moon, stars, simple animation with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "But in dreamland, it's always smile",
+            "visual": "clouds, calm ocean, continuation of the gentle animation",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "So close your eyes and take a deep breath in",
+            "visual": "simple animation of moon, stars, clouds, and ocean with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "Let the calmness of this place begin",
+            "visual": "continuation of the previous visual scene",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "In the quiet night, we'll find our nest",
+            "visual": "A calm animation of a moon, stars, clouds, and gentle ocean movements",
+            "duration": 3
+          },
+          {
+            "text": "And in the morning light, we'll be refreshed",
+            "visual": "The same calm animation with the addition of a rising sun and the continued movement of the moon, stars, clouds, and ocean",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "Dreams are made of sparkles and delight",
+            "visual": "calm animation with a moon, stars, clouds, and an ocean, featuring gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "And in dreamland, everything is just right",
+            "visual": "continuation of the previous visual scene",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "The soft whispers guide us through the night",
+            "visual": "animation of gentle moonlight, stars twinkling, moving clouds, and calm ocean waves",
+            "duration": 3
+          },
+          {
+            "text": "To a peaceful sleep, where all is bright",
+            "visual": "gradual fading to white representing peace and light",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "Shhh... Listen to the soft whispers of dreamland now",
+            "visual": "calm, repetitive animation featuring moon, stars, clouds, and ocean with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": null,
+            "visual": null,
+            "duration": null
+          }
+        ],
+        [
+          {
+            "text": "moonlight dances on the water",
+            "visual": "calm animation of a moon shining on an ocean with gentle waves and stars in the sky, with occasional drifting clouds",
+            "duration": 5
+          },
+          {
+            "text": "reflecting stars and dreamy hues",
+            "visual": "continuation of the previous visual with the reflection of stars shimmering on the water and a soft color palette",
+            "duration": 3
+          }
+        ]
+      ],
+      "cta": "Sleep well, little one. Guiding children into a peaceful sleep with calming sounds and gentle words.."
+    },
+    {
+      "idea_id": 2,
+      "title": "Nighttime Ocean",
+      "hook": "Drift off to the rhythm of the nighttime ocean waves.",
+      "lyrics": "{\n\"lyrics\": [\n\"Dreamy waves whisper secrets sweet\",\n\"In the nighttime ocean, where stars meet\",\n\"The moon dips low, the sun says goodnight\",\n\"The world slows down, and all's made right\",\n\"Waves caress the shore, a gentle sway\",\n\"As night falls deep, come what may\",\n\"Drift off to rhythm of the ocean's song\",\n\"Where peaceful dreams and rest belong\",\n\"Dreamy waves whisper secrets sweet\",\n\"In the nighttime ocean, where stars meet\",\n\"The moon dips low, the sun says goodnight\",\n\"Waves crash softly, like a lullaby tune\",\n\"As night falls deep, come what may\",\n\"Sleepy time, when all is calm\",\n\"Drift off to rhythm of the ocean's song\",\n\"Dreamy waves whisper secrets sweet\",\n\"In the nighttime ocean, where stars meet\",\n\"The moon dips low, the sun says goodnight\",\n\"Waves crash softly, like a lullaby tune\",\n\"As night falls deep, come what may\",\n\"Soothing ocean breeze blows by\",\n\"Sleep tight, with the stars up high\",\n\"Dreamy waves whisper secrets sweet\",\n\"In the nighttime ocean, where stars meet\"\n]\n}",
+      "scenes": [
+        [
+          {
+            "text": "\"exact lyrics\"",
+            "visual": "calm animation of moon, stars, clouds, and ocean with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "\"exact lyrics\"",
+            "visual": "continuation of calm animation",
+            "duration": 4
+          },
+          {
+            "text": "\"exact lyrics\"",
+            "visual": "final frames of calm animation",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "Dreamy waves whisper secrets sweet",
+            "visual": "calm animation of moon, stars, clouds, and ocean with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "In the nighttime ocean, where stars meet",
+            "visual": "continuation of the calm animation from previous scene",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "The moon dips low, the sun says goodnight",
+            "visual": "Calm animation of a moon gradually lowering, stars appearing in the sky, clouds gently moving, and an ocean with gentle waves",
+            "duration": 3
+          },
+          {
+            "text": "The world slows down, and all's made right",
+            "visual": "Continuation of the previous animation with a slower pace, emphasizing tranquility",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "Waves caress the shore, a gentle sway",
+            "visual": "Animation of calm ocean waves gently touching the shore, with stars and moon in the night sky",
+            "duration": 3
+          },
+          {
+            "text": "As night falls deep, come what may",
+            "visual": "Continuation of the previous animation with clouds moving slowly across the sky",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "Drift off to rhythm of the ocean's song",
+            "visual": "calm animation of moon, stars, clouds, and gentle ocean movements",
+            "duration": 3
+          },
+          {
+            "text": "Where peaceful dreams and rest belong",
+            "visual": "continuation of previous visual with emphasis on tranquility",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "Dreamy waves whisper secrets sweet",
+            "visual": "Calm animation of moonlight reflecting off a tranquil ocean with gentle wave movements and twinkling stars scattered across the sky.",
+            "duration": 3
+          },
+          {
+            "text": "In the nighttime ocean, where stars meet",
+            "visual": "Continuation of the previous visual with stars moving closer together as if meeting in the ocean.",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "The moon dips low, the sun says goodnight",
+            "visual": "A simple animation showing a moon slowly descending, stars twinkling, and clouds drifting across a sky transitioning from day to night. Below, the ocean gently waves.",
+            "duration": 3
+          },
+          {
+            "text": "Waves crash softly, like a lullaby tune",
+            "visual": "The animation continues with the ocean's gentle waves becoming more pronounced, creating a soothing rhythm similar to a lullaby.",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "As night falls deep, come what may",
+            "visual": "calm animation of a moon, stars and simple cloud movements in the sky",
+            "duration": 3
+          },
+          {
+            "text": "Sleepy time, when all is calm",
+            "visual": "continuation of the previous visual with gentle ocean waves added",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "Drift off to rhythm of the ocean's song",
+            "visual": "Calm animation featuring moon, stars, clouds, and gentle ocean waves",
+            "duration": 3
+          },
+          {
+            "text": "Dreamy waves whisper secrets sweet",
+            "visual": "Continuation of the calm animation with emphasis on the dreamy ocean waves",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "In the nighttime ocean, where stars meet",
+            "visual": "calm animation of moon, stars, clouds, and ocean with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "The moon dips low, the sun says goodnight",
+            "visual": "continuation of previous visual with moon dipping low and sun setting",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "Waves crash softly, like a lullaby tune",
+            "visual": "simple animation of moon, stars, clouds, and ocean with gentle waves",
+            "duration": 3
+          },
+          {
+            "text": "As night falls deep, come what may",
+            "visual": "continuation of the previous animation with no significant changes",
+            "duration": 5
+          }
+        ],
+        {
+          "text": "\"Soothing ocean breeze blows by\",\n\"Sleep tight, with the stars up high\",",
+          "visual": "calm animation",
+          "duration": 4
+        },
+        [
+          {
+            "text": "Dreamy waves whisper secrets sweet",
+            "visual": "Animation of calm ocean with gentle wave movements, moonlight reflecting off the water, stars twinkling in the night sky with occasional clouds floating by",
+            "duration": 3
+          },
+          {
+            "text": "In the nighttime ocean, where stars meet",
+            "visual": "Same as previous animation but with a closer focus on the meeting point of the stars and water",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "moonlight",
+            "visual": "calm animation of a full moon gently illuminating the sky with soft light and shimmering stars"
+          },
+          {
+            "text": "stars",
+            "visual": "gentle movement of stars against the backdrop of the night sky"
+          },
+          {
+            "text": "clouds",
+            "visual": "simple animation of clouds drifting slowly across the moonlit sky"
+          },
+          {
+            "text": "ocean",
+            "visual": "calm waves lapping gently against a shore, with a glimmering reflection of the moon and stars"
+          },
+          {
+            "text": "silence",
+            "visual": "no visual change, but the audio fades to a peaceful silence"
+          }
+        ]
+      ],
+      "cta": "Sleep well, little one. Using calming ocean sounds and a soothing melody to help lull children to sleep.."
+    },
+    {
+      "idea_id": 3,
+      "title": "Stars Above",
+      "hook": "Count the stars above as they twinkle gently in the sky.",
+      "lyrics": "{\n\"lyrics\": [\n\"Gently twinkle stars above\",\n\"Shining bright in the midnight love\",\n\"Softly glowing like a gentle light\",\n\"In the sky so dark and quiet tonight\",\n\"Count them high, count them low\",\n\"As they sparkle and start to go\",\n\"To sleep, my dear, it's time to rest\",\n\"The stars are singing their sweetest nest\",\n\"In the darkness, all is calm\",\n\"The world outside begins to fade\",\n\"But in your dreams, a new path's made\",\n\"The stars above, a twinkling sea\",\n\"Reflecting moonbeams shining free\",\n\"Like diamonds scattered far and wide\",\n\"In the velvet sky, where dreams reside\",\n\"Gently twinkle stars above\",\n\"Shining bright in the midnight love\",\n\"So close, yet so very far away\",\n\"A lullaby to guide you home tonight\",\n\"The stars are singing their sweetest nest\",\n\"To sleep, my dear, it's time to rest\",\n\"In the stillness, all is well\",\n\"The world outside begins to fade\",\n\"But in your dreams, a new path's made\",\n\"Sleep tight, my child, and dream of more\",\n\"The stars above, a twinkling sea\",\n\"Reflecting moonbeams shining free\",\n\"Like diamonds scattered far and wide\",\n\"In the velvet sky, where dreams reside\",\n\"Gently twinkle stars above\",\n\"To sleep, my dear, it's time to rest\"\n]\n}",
+      "scenes": [
+        [
+          {
+            "text": "\"exact lyrics\"",
+            "visual": "calm animation of moon, stars, clouds, and ocean with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "\"exact lyrics\"",
+            "visual": "continuation of the calm animation from previous scene",
+            "duration": 4
+          },
+          {
+            "text": "\"exact lyrics\"",
+            "visual": "final part of the calm animation, focusing on the moon and stars",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "Gently twinkle stars above",
+            "visual": "Calm animation of a moon, stars twinkling gently and repetitively against a backdrop of simple moving clouds and an ocean",
+            "duration": 3
+          },
+          {
+            "text": "Shining bright in the midnight love",
+            "visual": "Continuation of the previous animation with the stars shining even brighter, maintaining the calm and repetitive atmosphere",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "Softly glowing like a gentle light",
+            "visual": "A moon gently illuminating a quiet night sky filled with stars and simple cloud movements.",
+            "duration": 3
+          },
+          {
+            "text": "In the sky so dark and quiet tonight",
+            "visual": "The tranquil scene continues, focusing on the peaceful movement of the moon, stars, and clouds above an ocean.",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "Count them high, count them low",
+            "visual": "simple animation of stars sparkling against a calm night sky with gentle cloud movements and a tranquil ocean in the foreground",
+            "duration": 3
+          },
+          {
+            "text": "As they sparkle and start to go",
+            "visual": "continuation of the previous visual scene, showing stars gradually fading out as they move across the sky",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "To sleep, my dear, it's time to rest",
+            "visual": "A tranquil animation of a moon, stars, clouds, and an ocean with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "The stars are singing their sweetest nest",
+            "visual": "Continuation of the previous visual scene with slight variations in star patterns and movements",
+            "duration": 2
+          }
+        ],
+        {
+          "text": "\"In the darkness, all is calm\",\n\"The world outside begins to fade\",",
+          "visual": "calm animation",
+          "duration": 4
+        },
+        {
+          "text": "\"But in your dreams, a new path's made\",\n\"The stars above, a twinkling sea\",",
+          "visual": "calm animation",
+          "duration": 4
+        },
+        [
+          {
+            "text": "Reflecting moonbeams shining free",
+            "visual": "A calm animation of a moon reflecting moonbeams that appear as diamonds scattered across the night sky, with simple moving clouds and gentle ocean waves below",
+            "duration": 3
+          },
+          {
+            "text": "Like diamonds scattered far and wide",
+            "visual": "The same calm animation continuing, with the diamonds (moonbeams) still scattering across the night sky but moving slightly differently to give a sense of variety",
+            "duration": 2
+          }
+        ],
+        {
+          "text": "\"In the velvet sky, where dreams reside\",\n\"Gently twinkle stars above\",",
+          "visual": "calm animation",
+          "duration": 4
+        },
+        [
+          {
+            "text": "Shining bright in the midnight love",
+            "visual": "A calm animation of a moon shining brightly amidst a backdrop of stars and gentle cloud movements.",
+            "duration": 3
+          },
+          {
+            "text": "So close, yet so very far away",
+            "visual": "The scene transitions with the ocean waves gently moving towards the moon, only to recede away, emphasizing the distance.",
+            "duration": 4
+          }
+        ],
+        {
+          "text": "\"A lullaby to guide you home tonight\",\n\"The stars are singing their sweetest nest\",",
+          "visual": "calm animation",
+          "duration": 4
+        },
+        [
+          {
+            "text": "To sleep, my dear, it's time to rest",
+            "visual": "calm animation of moon, stars, and clouds with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "In the stillness, all is well",
+            "visual": "ocean scene with calm waves and repetitive movement",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "The world outside begins to fade",
+            "visual": "A calm animation of the moon, stars, and clouds gradually fading in an ocean backdrop with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "But in your dreams, a new path's made",
+            "visual": "A new, simple path appearing gently in the calm, repetitive animation",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "Sleep tight, my child, and dream of more",
+            "visual": "A calm animation featuring a serene night sky with stars twinkling like a sea, gentle clouds floating by, a crescent moon and the vast expanse of an ocean below",
+            "duration": 5
+          },
+          {
+            "text": "The stars above, a twinkling sea",
+            "visual": "A close-up view of the starry night sky with gentle movements of the stars to mimic a watery motion",
+            "duration": 3
+          }
+        ],
+        [
+          {
+            "text": "Reflecting moonbeams shining free",
+            "visual": "A calm animation of a moon casting reflective moonbeams onto a serene ocean below, with stars scattered across the sky and gentle cloud movements.",
+            "duration": 3
+          },
+          {
+            "text": "Like diamonds scattered far and wide",
+            "visual": "The stars continue to twinkle, representing the 'diamonds' scattered across the vast sky.",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "In the velvet sky, where dreams reside",
+            "visual": "Calm animation of a moon, stars gently twinkling and simple cloud movements against a dark backdrop",
+            "duration": 3
+          },
+          {
+            "text": "Gently twinkle stars above",
+            "visual": "Continuation of the previous visual with the stars continuing to twinkle",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "To sleep, my dear, it's time to rest",
+            "visual": "calm animation of moon, stars, clouds, and gentle ocean movements",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "Look around, look around",
+            "visual": "A calm animation of a moon, stars, clouds, and an ocean with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "at how the lights preferably avoid",
+            "visual": "The lights in the scene slowly move to avoid each other",
+            "duration": 4
+          },
+          {
+            "text": "the dirty ground",
+            "visual": "A subtle shift in the ocean animation to give the illusion of cleanliness",
+            "duration": 2
+          }
+        ]
+      ],
+      "cta": "Sleep well, little one. Encouraging children to visualize and feel calm as they imagine the night sky and its stars.."
+    },
+    {
+      "idea_id": 4,
+      "title": "Lullaby of the Wind",
+      "hook": "Feel the gentle breeze as it carries you off to sleep.",
+      "lyrics": "{\n\"lyrics\": [\n\"Wind whispers secrets to me\",\n\"As I drift away to sleep\",\n\"Gentle breeze carries me free\",\n\"To a land of dreams so deep\",\n\"The wind's soft sighs rock me\",\n\"In and out, side to side\",\n\"My eyelids grow heavy now\",\n\"As the wind's lullaby flows\",\n\"Warm air wraps me in love\",\n\"Making my heart feel light\",\n\"In this peaceful evening sky\",\n\"The stars shine bright above\",\n\"But I'll stay here where it's calm\",\n\"And let the wind be my balm\",\n\"It rocks and sings to me\",\n\"A gentle song of peace\",\n\"My breathing slows, I'm free\",\n\"As the wind's melody\",\n\"Whispers secrets to me\",\n\"To a land of dreams so deep\",\n\"The stars shine bright above\",\n\"But I'll stay here where it's calm\",\n\"And let the wind be my balm\",\n\"It rocks and sings to me\",\n\"A gentle song of peace\",\n\"My heart is full and light\",\n\"As the wind whispers goodnight\",\n\"Sleepy time, come what may\",\n\"I'll follow the wind away\",\n\"To a land of dreams so deep\",\n\"The stars shine bright above\",\n\"But I'll stay here where it's calm\",\n\"And let the wind be my balm\"\n]\n}",
+      "scenes": [
+        [
+          {
+            "text": "\"exact lyrics\"",
+            "visual": "calm animation of moon, stars, clouds, and ocean with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "\"exact lyrics\"",
+            "visual": "continuation of the calm animation",
+            "duration": 4
+          },
+          {
+            "text": "\"exact lyrics\"",
+            "visual": "final frame of the calm animation",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "Wind whispers secrets to me",
+            "visual": "Animation of wind gently rustling leaves or grass, with a calm and repetitive movement",
+            "duration": 3
+          },
+          {
+            "text": "As I drift away to sleep",
+            "visual": "Animation of stars twinkling in the sky, gentle cloud movements, calming ocean waves",
+            "duration": 4
+          }
+        ],
+        [
+          {
+            "text": "Gentle breeze carries me free",
+            "visual": "Calm animation of a gentle breeze carrying an object (e.g., a character) with simple background of moon, stars, and clouds",
+            "duration": 3
+          },
+          {
+            "text": "To a land of dreams so deep",
+            "visual": "Transition to a calm, repetitive animation of ocean waves, stars, and perhaps underwater creatures with a focus on depth and mystery",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "The wind's soft sighs rock me",
+            "visual": "calm animation of moon, stars, and gentle ocean waves",
+            "duration": 3
+          },
+          {
+            "text": "In and out, side to side",
+            "visual": "animation of clouds moving in a repetitive pattern",
+            "duration": 4
+          }
+        ],
+        [
+          {
+            "text": "My eyelids grow heavy now",
+            "visual": "A simple animation of a moon with gentle cloud movements and stars twinkling overhead, overlaid on a calm ocean",
+            "duration": 3
+          },
+          {
+            "text": "As the wind's lullaby flows",
+            "visual": "The same visual as previous, but with a slight breeze effect on the water and leaves rustling gently",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "Warm air wraps me in love",
+            "visual": "Calm animation of moonlight illuminating a tranquil ocean with gentle waves and stars twinkling overhead, clouds drifting slowly",
+            "duration": 3
+          },
+          {
+            "text": "Making my heart feel light",
+            "visual": "Continuation of the previous scene, with the animation emphasizing the feeling of weightlessness and serenity",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "In this peaceful evening sky",
+            "visual": "calm animation of stars shining brightly against a backdrop of calm clouds and an ocean",
+            "duration": 3
+          },
+          {
+            "text": "The stars shine bright above",
+            "visual": "continuation of the previous visual with the stars maintaining their brightness",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "But I'll stay here where it's calm",
+            "visual": "animation of a tranquil scene with moon, stars, and simple movements of clouds and ocean",
+            "duration": 3
+          },
+          {
+            "text": "And let the wind be my balm",
+            "visual": "continuation of the previous animation with gentle wind effects",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "It rocks and sings to me",
+            "visual": "calm animation of a moon, stars, and gentle ocean waves",
+            "duration": 3
+          },
+          {
+            "text": "A gentle song of peace",
+            "visual": "continuation of the calm animation with added simple cloud movements",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "My breathing slows, I'm free",
+            "visual": "calm animation of a moon, stars, clouds, and gentle ocean movements",
+            "duration": 3
+          },
+          {
+            "text": "As the wind's melody",
+            "visual": "continuation of the calm animation with added repetitive elements such as leaves moving or waves lapping",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "Whispers secrets to me",
+            "visual": "A moon glows softly over a calm ocean with gentle waves and stars twinkling above, while clouds drift slowly by.",
+            "duration": 3
+          },
+          {
+            "text": "To a land of dreams so deep",
+            "visual": "The scene continues as the camera pans down into the depths of the ocean, revealing schools of fish and coral reefs in the distance.",
+            "duration": 4
+          }
+        ],
+        [
+          {
+            "text": "The stars shine bright above",
+            "visual": "A simple animation of a calm night sky with twinkling stars and a shining moon overhead, set against a backdrop of gentle moving clouds and a peaceful ocean below.",
+            "duration": 3
+          },
+          {
+            "text": "But I'll stay here where it's calm",
+            "visual": "The scene continues to show the serene night landscape, with no change in the animation.",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "And let the wind be my balm",
+            "visual": "calm animation of moon, stars, and gentle ocean movements",
+            "duration": 3
+          },
+          {
+            "text": "It rocks and sings to me",
+            "visual": "continuation of previous visual with added clouds and simple repetitive motions",
+            "duration": 5
+          }
+        ],
+        {
+          "text": "\"A gentle song of peace\",\n\"My heart is full and light\",",
+          "visual": "calm animation",
+          "duration": 4
+        },
+        [
+          {
+            "text": "As the wind whispers goodnight",
+            "visual": "calm animation of moon, stars, and gentle ocean movements",
+            "duration": 3
+          },
+          {
+            "text": "Sleepy time, come what may",
+            "visual": "simple cloud animation with repetitive movement",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "I'll follow the wind away",
+            "visual": "A gentle animation of a moon, stars, and clouds with soft movements against an ocean backdrop",
+            "duration": 3
+          },
+          {
+            "text": "To a land of dreams so deep",
+            "visual": "The same serene animation continues, with the focus on a deeper part of the ocean revealing a dreamlike quality",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "The stars shine bright above",
+            "visual": "Moon, stars, and clouds in a calm, repetitive animation with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "But I'll stay here where it's calm",
+            "visual": "Ocean with gentle waves and tranquil settings",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "And let the wind be my balm",
+            "visual": "A calm animation of a moon, stars, clouds and an ocean with gentle movements",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "moonlight",
+            "visual": "A calm animation of a moon shining over gentle waves in the ocean with stars twinkling and clouds slowly drifting by",
+            "duration": 3
+          },
+          {
+            "text": "stars",
+            "visual": "The same serene scene, but with more emphasis on the stars twinkling in the night sky",
+            "duration": 2
+          },
+          {
+            "text": "clouds",
+            "visual": "A focus on the clouds drifting slowly across the moonlit sky",
+            "duration": 3
+          },
+          {
+            "text": "ocean",
+            "visual": "A close-up of the ocean waves gently lapping against the shore under the light of the moon",
+            "duration": 4
+          }
+        ]
+      ],
+      "cta": "Sleep well, little one. Using soft and calming wind sounds along with a lullaby to help soothe children to sleep.."
+    },
+    {
+      "idea_id": 5,
+      "title": "Rain Lullaby",
+      "hook": "Listen to the calming sound of raindrops falling gently.",
+      "lyrics": "{\n\"Rain Lullaby\": [\n\"Droplets falling from above\",\n\"Gently on our roof love\",\n\"The rain's sweet serenade starts\",\n\"Soften your heart, calm your starts\",\n\"Listen close to the sound\",\n\"As it wraps you all around\",\n\"In a cozy, sleepy nest\",\n\"Feeling safe, feeling best\",\n\"Raindrops keep on falling down\",\n\"Soothing out each frown\",\n\"The patter of tiny feet\",\n\"Echoes in this sweet retreat\",\n\"Whispers calm and true\",\n\"Come rest with me, it's new\",\n\"Gentle rain, gentle sleep\",\n\"In the rhythm, we'll creep\",\n\"To a land of peaceful dreams\",\n\"No worries, no loud screams\",\n\"Just quiet moments shared\",\n\"The rain's soft song is played\",\n\"As our eyelids gently swayed\",\n\"Cradled in this cozy nest\",\n\"Your heart beats at its best\",\n\"Droplets falling from above\",\n\"Gently on our roof love\"\n]\n}",
+      "scenes": [
+        {
+          "text": "{\n\"Rain Lullaby\": [",
+          "visual": "calm animation",
+          "duration": 4
+        },
+        [
+          {
+            "text": "Droplets falling from above",
+            "visual": "An animation of raindrops gently falling onto a roof with a calm and repetitive background of stars, moon, and clouds",
+            "duration": 3
+          },
+          {
+            "text": "Gently on our roof love",
+            "visual": "Continuation of the previous visual with gentle movements and calming ambient sounds",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "The rain's sweet serenade starts",
+            "visual": "A gentle animation of soft raindrops falling on a moonlit ocean, surrounded by stars and clouds, with simple, repetitive movements",
+            "duration": 3
+          },
+          {
+            "text": "Soften your heart, calm your starts",
+            "visual": "The same calming animation continues, with the focus shifting to the tranquil ocean and the twinkling stars",
+            "duration": 2
+          }
+        ],
+        {
+          "text": "\"Listen close to the sound\",\n\"As it wraps you all around\",",
+          "visual": "calm animation",
+          "duration": 4
+        },
+        {
+          "text": "\"In a cozy, sleepy nest\",\n\"Feeling safe, feeling best\",",
+          "visual": "calm animation",
+          "duration": 4
+        },
+        [
+          {
+            "text": "Raindrops keep on falling down",
+            "visual": "animated rain drops falling gently against a backdrop of stars and moon",
+            "duration": 3
+          },
+          {
+            "text": "Soothing out each frown",
+            "visual": "the ocean below calms as the raindrops fall, creating a soothing effect",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "The patter of tiny feet",
+            "visual": "moon, stars, simple animation of gentle footprints on sand",
+            "duration": 3
+          },
+          {
+            "text": "Echoes in this sweet retreat",
+            "visual": "ocean waves gently lapping shore, calm clouds drifting",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "Whispers calm and true",
+            "visual": "animation of gentle moonlight, stars twinkling, clouds drifting slowly, calming ocean waves",
+            "duration": 3
+          },
+          {
+            "text": "Come rest with me, it's new",
+            "visual": "continuation of the previous animation, perhaps an addition of soft, glowing flora or fauna",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "Gentle rain, gentle sleep",
+            "visual": "Animated scene of gentle rain falling on a calm ocean with stars and clouds in the background",
+            "duration": 3
+          },
+          {
+            "text": "In the rhythm, we'll creep",
+            "visual": "Continuation of the previous animation with a slow movement of moonlight reflecting off the water",
+            "duration": 5
+          }
+        ],
+        [
+          {
+            "text": "To a land of peaceful dreams",
+            "visual": "calm animation with moon, stars, clouds and ocean",
+            "duration": 3
+          },
+          {
+            "text": "No worries, no loud screams",
+            "visual": "continuation of the calm animation with gentle movements",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "Just quiet moments shared",
+            "visual": "calm animation of moon, stars, clouds, ocean with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "The rain's soft song is played",
+            "visual": "continuation of the previous animation with gentle rain added",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "As our eyelids gently swayed",
+            "visual": "calm animation of a moon, stars, and gentle cloud movements",
+            "duration": 3
+          },
+          {
+            "text": "Cradled in this cozy nest",
+            "visual": "ocean waves slowly rocking the scene",
+            "duration": 4
+          }
+        ],
+        [
+          {
+            "text": "Your heart beats at its best",
+            "visual": "Animation of a calm moon with gentle movements and simple starry night",
+            "duration": 3
+          },
+          {
+            "text": "Droplets falling from above",
+            "visual": "Calm animation of droplets gently falling against the backdrop of the previous visual",
+            "duration": 2
+          }
+        ],
+        [
+          {
+            "text": "Gently on our roof love",
+            "visual": "A calm animation of a moon, stars, and gentle cloud movements over an ocean",
+            "duration": 3
+          },
+          {
+            "text": "Gently on our roof love",
+            "visual": "A repetition of the previous visual with slight variations for continuity",
+            "duration": 2
+          },
+          {
+            "text": "",
+            "visual": "Fade out of the animation, leaving only the moon and stars for a brief moment",
+            "duration": 1
+          }
+        ],
+        [
+          {
+            "text": "exact lyrics",
+            "visual": "calm animation of moon, stars, clouds, ocean with gentle movements",
+            "duration": 3
+          },
+          {
+            "text": "exact lyrics 2",
+            "visual": "repetitive animation of moon, stars, clouds, ocean with gentle movements",
+            "duration": 4
+          }
+        ]
+      ],
+      "cta": "Sleep well, little one. Utilizing the soothing sound of rainfall and a repetitive lullaby to help children fall asleep.."
+    }
+  ]
+}
