@@ -17,16 +17,42 @@ Topic → Research Agent → Script Agent → Caption Agent → Final Output
 
 ## Setup
 
+Complete step-by-step setup for local LLM inference using Ollama:
+
 ```bash
-# 1. Clone / navigate to the project
-cd content_agent_system
+# 1. Install Ollama
+curl -fsSL https://ollama.com/install.sh | sh
 
-# 2. Install dependencies
-pip install -r requirements.txt
+# 2. Start Ollama server
+#    - Launch Ollama from Applications folder, or run:
+open -a Ollama
 
-# 3. Set your OpenAI API key
-export OPENAI_API_KEY="sk-your-key-here"
+# 3. Install Python client library
+pip install ollama
+
+# 4. Download models
+ollama pull mistral
+ollama pull llama3
+ollama pull phi3
+
+# 5. Verify models are available
+ollama list
+
+# 6. Test a model (example with phi3)
+ollama run phi3 "Return JSON: { \"hello\": \"world\" }"
+
+# 7. (Optional) Test with curl
+curl http://localhost:11434/api/generate -d '{
+  "model": "mistral",
+  "prompt": "Return JSON: { \"hello\": \"world\" }',
+  "stream": false
+}'
 ```
+
+### Environment Variables
+
+- No API key is required when using local models.
+- If you wish to use OpenAI as fallback, set `OPENAI_API_KEY` in your environment.
 
 ## Usage
 
@@ -34,8 +60,8 @@ export OPENAI_API_KEY="sk-your-key-here"
 # Run the full pipeline
 python main.py "AI tools for creators"
 
-# Use a different model
-python main.py "AI tools for creators" --model gpt-4o
+# Use a different model (example: phi3)
+python main.py "AI tools for creators" --model phi3
 
 # View saved history for an agent
 python main.py --history research
@@ -57,7 +83,7 @@ content_agent_system/
 │   └── caption_agent.py    # Stage 3: writes captions + hashtags
 ├── utils/
 │   ├── __init__.py
-│   ├── ai_client.py        # OpenAI API wrapper + JSON parser
+│   ├── ai_client.py        # Ollama client wrapper + JSON parser
 │   └── memory.py           # File-based JSON memory system
 ├── prompts/
 │   ├── __init__.py
@@ -118,8 +144,8 @@ The final combined output looks like this:
 ## Customization
 
 - **Prompts**: Edit `prompts/prompts.py` to change how each agent thinks
-- **Model**: Pass `--model gpt-4o` for higher quality, or stick with `gpt-4o-mini` for speed/cost
-- **AI Provider**: Swap `utils/ai_client.py` to use any OpenAI-compatible API
+- **Model**: Pass `--model phi3` for speed, `--model mistral` for balanced performance, or `--model llama3` for highest quality
+- **AI Provider**: Swap `utils/ai_client.py` to use any OpenAI-compatible API or other providers
 
 ## License
 
